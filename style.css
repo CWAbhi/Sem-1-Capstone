@@ -91,6 +91,8 @@ main {
     object-fit: cover;
 }
 
+/* grid css for images  */
+
 .portfolio-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -170,7 +172,7 @@ main {
     font-size: 1rem;
 }
 
-/* about / work design  */
+/* projects design  */
 
 .about {
     padding: 4rem 2rem;
@@ -237,6 +239,7 @@ main {
 }
 
 /* contact form design  */
+
 .contact {
     padding: 4rem 2rem;
     max-width: 800px;
@@ -287,6 +290,8 @@ main {
     color: var(--text-color);
     text-align: center;
 }
+
+/* submit and skin button css  */
 
 .submit-btn {
     background: var(--accent-color);
