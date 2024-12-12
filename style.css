@@ -64,12 +64,12 @@ main {
     padding-top: 80px;
 }
 
-.hero {
+.intro {
     text-align: center;
     padding: 4rem 2rem;
 }
 
-.hero h1 {
+.intro h1 {
     margin-left: 100px;
     font-size: 3.5rem;
     margin-bottom: 2rem;
