@@ -1,4 +1,4 @@
-/* Tablet view adjustments */
+/* Tablet view responsive */
 
 @media (max-width: 768px) {
     .navbar {
@@ -50,7 +50,7 @@
     }
 }
 
-/* Mobile view adjustments */
+/* Mobile view responsive */
 
 @media (max-width: 480px) {
     .intro h1 {

@@ -14,7 +14,7 @@
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Public Sans';
     background-color: var(--primary-color);
     color: var(--text-color);
     line-height: 1.6;
@@ -79,7 +79,7 @@ main {
 
 .featured-image {
     width: 100%;
-    max-width: 1200px;
+    max-width: 2000px;
     margin: 0 auto;
     border-radius: 20px;
     overflow: hidden;
@@ -153,6 +153,7 @@ main {
     width: fit-content;
 }
 .service-column{
+    margin-right: 90px;
     margin-top: -75px;
 }
 .service-column ul {
@@ -201,6 +202,7 @@ main {
 
 .explore-container img {
     width: 100%;
+    max-width: 2500px;
     height: auto;
 }
 
