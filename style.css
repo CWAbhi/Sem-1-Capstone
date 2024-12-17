@@ -56,6 +56,7 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--text-color);
+    margin-right: 110px;
 }
 
 /* main design  */
@@ -172,7 +173,10 @@ main {
     font-family: 'Public Sans';
     font-size: 1rem;
 }
-
+.service-colmn{
+    margin-right: 90px;
+    margin-top: -75px;
+}
 /* projects design  */
 
 .about {
@@ -303,7 +307,7 @@ main {
     border-radius: 25px;
     font-size: 1rem;
     cursor: pointer;
-    margin-left: 28px;
+    margin-left: 63px;
     margin-bottom: 1rem;
     width: 50%;
     font-family: 'Public Sans';
@@ -318,7 +322,7 @@ main {
     border: none;
     color: var(--accent-color);
     cursor: pointer;
-    margin-left: 10px;
+    margin-left: 35px;
     font-size: 0.9rem;
     font-family: 'Public Sans';
 }
